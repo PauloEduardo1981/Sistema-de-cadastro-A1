@@ -16,3 +16,6 @@ It’s a quick way to edit and navigate code. It's especially useful if you want
 
 Realizando o teste de mudança de pasta no notebook e atualizando a pasta do github
 
+Realizando o teste de mudança de pasta no github e atualizando a pasta do git
+
+
